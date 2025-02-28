@@ -24,4 +24,9 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0009-palindrome-number) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
+| [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
