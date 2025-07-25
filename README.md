@@ -89,6 +89,7 @@
 | ------- |
 | [0018-4sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0018-4sum) |
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
+| [0046-permutations](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0046-permutations) |
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
 ## Matrix
 |  |
@@ -121,6 +122,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0046-permutations) |
 ## Two Pointers
 |  |
 | ------- |
