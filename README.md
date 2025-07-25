@@ -17,6 +17,7 @@
 | [0020-valid-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Stack
 |  |
@@ -27,6 +28,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,4 +102,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
