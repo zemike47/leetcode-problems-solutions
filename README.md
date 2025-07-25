@@ -16,6 +16,7 @@
 | [0006-zigzag-conversion](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
