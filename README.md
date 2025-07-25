@@ -13,6 +13,7 @@
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
