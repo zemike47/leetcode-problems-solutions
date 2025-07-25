@@ -35,6 +35,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
 |  |
@@ -53,6 +54,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -88,4 +90,12 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
