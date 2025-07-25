@@ -19,6 +19,7 @@
 | [0022-generate-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
+| [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Stack
@@ -114,6 +115,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
+| [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
 ## Backtracking
 |  |
@@ -127,4 +129,12 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0018-4sum) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
