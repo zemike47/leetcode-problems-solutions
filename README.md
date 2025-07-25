@@ -51,6 +51,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0046-permutations) |
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
