@@ -25,6 +25,7 @@
 | [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Stack
@@ -144,6 +145,7 @@
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0097-interleaving-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
+| [0131-palindrome-partitioning](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0131-palindrome-partitioning) |
 | [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
 ## Backtracking
 |  |
@@ -153,6 +155,7 @@
 | [0039-combination-sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0131-palindrome-partitioning) |
 ## Two Pointers
 |  |
 | ------- |
