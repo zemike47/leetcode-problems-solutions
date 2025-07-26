@@ -36,6 +36,7 @@
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -116,6 +117,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
+| [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -127,6 +129,7 @@
 | [0022-generate-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
+| [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
 ## Backtracking
 |  |
 | ------- |
