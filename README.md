@@ -22,6 +22,7 @@
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Stack
@@ -98,12 +99,14 @@
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0134-gas-station) |
 ## Matrix
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 ## Simulation
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
@@ -137,6 +141,7 @@
 | [0022-generate-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 ## Two Pointers
 |  |
 | ------- |
