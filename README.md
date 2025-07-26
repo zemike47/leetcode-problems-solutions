@@ -155,4 +155,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
