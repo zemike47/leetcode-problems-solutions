@@ -22,6 +22,7 @@
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
+| [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 ## Stack
 |  |
@@ -137,6 +138,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0018-4sum) |
+| [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
 ## Sorting
 |  |
 | ------- |
