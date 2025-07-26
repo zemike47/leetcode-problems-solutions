@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
@@ -116,6 +117,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 ## Dynamic Programming
 |  |
