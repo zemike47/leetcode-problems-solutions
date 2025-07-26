@@ -61,6 +61,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0099-recover-binary-search-tree) |
@@ -103,6 +104,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0182-duplicate-emails](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0182-duplicate-emails) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
