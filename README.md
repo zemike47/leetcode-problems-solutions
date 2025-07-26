@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Design
@@ -61,6 +62,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -122,6 +125,7 @@
 | ------- |
 | [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0100-same-tree) |
 ## Breadth-First Search
 |  |
