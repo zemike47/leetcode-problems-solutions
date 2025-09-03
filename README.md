@@ -117,6 +117,7 @@
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0198-house-robber) |
+| [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -127,6 +128,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
+| [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
+| [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
 | ------- |
