@@ -22,6 +22,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
+| [0058-length-of-last-word](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 | [0097-interleaving-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0097-interleaving-string) |
