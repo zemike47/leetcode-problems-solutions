@@ -30,6 +30,7 @@
 | [0131-palindrome-partitioning](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 ## Stack
 |  |
 | ------- |
@@ -44,6 +45,7 @@
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
+| [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
