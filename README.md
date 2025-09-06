@@ -30,6 +30,7 @@
 | [0131-palindrome-partitioning](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0131-palindrome-partitioning) |
 | [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 ## Stack
 |  |
@@ -177,6 +178,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
+| [0345-reverse-vowels-of-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
