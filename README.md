@@ -34,6 +34,7 @@
 | [0459-repeated-substring-pattern](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
+| [0742-to-lower-case](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0742-to-lower-case) |
 ## Stack
 |  |
 | ------- |
