@@ -49,6 +49,7 @@
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
+| [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
@@ -154,6 +155,7 @@
 | [0029-divide-two-integers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -198,6 +200,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
 ## Database
 |  |
 | ------- |
