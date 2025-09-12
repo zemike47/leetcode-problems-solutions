@@ -48,6 +48,7 @@
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
@@ -76,6 +77,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0099-recover-binary-search-tree) |
+| [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
@@ -108,6 +110,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
+| [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -127,6 +130,7 @@
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -157,6 +161,7 @@
 | [0029-divide-two-integers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
@@ -192,6 +197,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0018-4sum) |
+| [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 ## Greedy
 |  |
 | ------- |
