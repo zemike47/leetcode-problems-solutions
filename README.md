@@ -47,6 +47,7 @@
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
@@ -110,6 +111,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
+| [0202-happy-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -193,6 +195,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
