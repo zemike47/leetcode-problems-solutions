@@ -49,6 +49,7 @@
 | [0171-excel-sheet-column-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0326-power-of-three) |
@@ -58,6 +59,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 ## Tree
 |  |
@@ -145,6 +147,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0258-add-digits) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Depth-First Search
 |  |
