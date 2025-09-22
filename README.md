@@ -35,6 +35,7 @@
 | [0482-license-key-formatting](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 | [0742-to-lower-case](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0742-to-lower-case) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -115,10 +116,12 @@
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0202-happy-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -232,4 +235,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0459-repeated-substring-pattern) |
+## Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
