@@ -146,6 +146,7 @@
 | [0198-house-robber](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -250,4 +251,5 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
