@@ -147,6 +147,7 @@
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -252,4 +253,5 @@
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
+| [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
