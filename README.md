@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0027-remove-element) |
@@ -207,6 +208,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0027-remove-element) |
@@ -226,6 +228,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0134-gas-station) |
