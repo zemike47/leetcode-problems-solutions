@@ -143,6 +143,7 @@
 | [0075-sort-colors](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0079-word-search) |
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0134-gas-station) |
 | [0198-house-robber](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
@@ -190,6 +191,7 @@
 | [0055-jump-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0055-jump-game) |
 | [0097-interleaving-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0097-interleaving-string) |
 | [0120-triangle](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0279-perfect-squares) |
