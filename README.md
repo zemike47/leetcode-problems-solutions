@@ -84,6 +84,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0099-recover-binary-search-tree) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
@@ -139,6 +140,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0046-permutations) |
