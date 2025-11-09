@@ -1,10 +1,13 @@
 class Solution:
     def runningSum(self, nums: List[int]) -> List[int]:
-        prefix_sum = []
-        total_sum = 0
+        runningSum = [0] * len(nums)
+        runningSum[0] = nums[0]
+        accumulater = nums[0]
 
-        for i in range(len(nums)):
-            total_sum += nums[i]
-            prefix_sum.append(total_sum)
+        for i in range(1,len(nums)):
+            accumulater += nums[i]
+            runningSum[i] = accumulater
+
+        return runningSum
+            
         
-        return prefix_sum
