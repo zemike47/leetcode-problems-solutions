@@ -3,13 +3,21 @@ class Solution:
         total = sum(nums)
         leftsum = 0
 
-        for i,n in enumerate(nums):
-            if leftsum == total - leftsum - n:
+        for i,num in enumerate(nums):
+
+            rightsum = total - leftsum - num
+            if leftsum == rightsum:
                 return i
             
-            leftsum += n
+            leftsum += num
         
         return -1
+            
 
+
+
+        
+
+      
 
 
