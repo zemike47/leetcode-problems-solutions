@@ -37,6 +37,7 @@
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 | [0742-to-lower-case](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0742-to-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
@@ -164,6 +165,7 @@
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1646-kth-missing-positive-number) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
@@ -278,6 +280,7 @@
 | [0303-range-sum-query-immutable](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 ## Trie
 |  |
 | ------- |
