@@ -61,6 +61,7 @@
 | [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
@@ -167,6 +168,7 @@
 | [1646-kth-missing-positive-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Matrix
 |  |
@@ -179,6 +181,7 @@
 | [0043-multiply-strings](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0258-add-digits) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Depth-First Search
 |  |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0014-longest-common-prefix) |
+## Combinatorics
+|  |
+| ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 <!---LeetCode Topics End-->
