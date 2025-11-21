@@ -40,6 +40,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
@@ -48,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
 | ------- |
@@ -248,6 +250,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
+| [2000-reverse-prefix-of-word](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
