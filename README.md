@@ -36,6 +36,7 @@
 | [0482-license-key-formatting](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0482-license-key-formatting) |
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 | [0742-to-lower-case](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0742-to-lower-case) |
+| [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -46,6 +47,7 @@
 | [0020-valid-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 | [0067-add-binary](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
+| [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Depth-First Search
@@ -244,6 +247,7 @@
 | [0202-happy-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Sorting
 |  |
