@@ -1,21 +1,22 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        valid = {'(':')',"[":"]","{":"}"}
+        if len(s) < 2:
+            return False
 
-        for parentheses in s:
-            if parentheses in valid:
-                stack.append(parentheses)
+        char_map = {'}':'{',']':'[',')':'('}
+        stack = []
+
+        for c in s:
+            if c in char_map.values():
+                stack.append(c)
             else:
-                if not stack:
+                if stack and stack[-1] == char_map[c]:
+                    stack.pop()  
+                else:
                     return False
-                
-                top = stack.pop()
-                if parentheses != valid[top]:
-                    return False
-            
-        else:
-            return not stack
-                
+                    
+
         
-        
+
+        return len(stack) == 0
+
