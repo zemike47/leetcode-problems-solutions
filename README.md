@@ -49,6 +49,7 @@
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [2000-reverse-prefix-of-word](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2000-reverse-prefix-of-word) |
 ## Math
 |  |
@@ -173,6 +174,7 @@
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -309,4 +311,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
