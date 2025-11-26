@@ -130,6 +130,7 @@
 | [0225-implement-stack-using-queues](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1953-finding-mk-average](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1953-finding-mk-average) |
+| [2073-time-needed-to-buy-tickets](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Ordered Set
 |  |
 | ------- |
@@ -187,6 +188,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2073-time-needed-to-buy-tickets](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -203,6 +205,7 @@
 | [0258-add-digits](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Depth-First Search
