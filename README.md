@@ -47,6 +47,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
@@ -88,6 +89,7 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -125,6 +127,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1953-finding-mk-average](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1953-finding-mk-average) |
 ## Ordered Set
