@@ -94,6 +94,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0933-number-of-recent-calls) |
 | [1953-finding-mk-average](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1953-finding-mk-average) |
 ## Binary Search Tree
 |  |
@@ -124,12 +125,14 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0933-number-of-recent-calls) |
 | [1953-finding-mk-average](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1953-finding-mk-average) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1953-finding-mk-average](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1953-finding-mk-average) |
 | [2073-time-needed-to-buy-tickets](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2073-time-needed-to-buy-tickets) |
