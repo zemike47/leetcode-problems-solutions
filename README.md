@@ -190,6 +190,7 @@
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
@@ -278,6 +279,7 @@
 | [0202-happy-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0455-assign-cookies) |
 | [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -288,6 +290,7 @@
 | [0075-sort-colors](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
 | ------- |
@@ -295,6 +298,7 @@
 | [0044-wildcard-matching](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0134-gas-station) |
+| [0455-assign-cookies](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0455-assign-cookies) |
 ## Recursion
 |  |
 | ------- |
