@@ -73,6 +73,7 @@
 | [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
@@ -134,6 +135,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1953-finding-mk-average](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1953-finding-mk-average) |
 | [2073-time-needed-to-buy-tickets](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 ## Ordered Set
@@ -193,6 +195,7 @@
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2073-time-needed-to-buy-tickets](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
@@ -212,6 +215,7 @@
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0874-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2073-time-needed-to-buy-tickets) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -294,6 +298,7 @@
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Database
 |  |
 | ------- |
