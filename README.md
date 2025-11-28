@@ -138,6 +138,7 @@
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1953-finding-mk-average](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1953-finding-mk-average) |
 | [2073-time-needed-to-buy-tickets](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2073-time-needed-to-buy-tickets) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -161,6 +162,7 @@
 | [1430-find-the-k-beauty-of-a-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Array
 |  |
 | ------- |
@@ -201,6 +203,7 @@
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2551-apply-operations-to-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2551-apply-operations-to-an-array) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Matrix
 |  |
 | ------- |
@@ -239,6 +242,7 @@
 | [0231-power-of-two](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -323,6 +327,7 @@
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Trie
 |  |
 | ------- |
