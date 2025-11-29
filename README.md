@@ -159,6 +159,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
 |  |
@@ -203,6 +204,7 @@
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1646-kth-missing-positive-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -301,6 +303,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0455-assign-cookies) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Greedy
 |  |
 | ------- |
