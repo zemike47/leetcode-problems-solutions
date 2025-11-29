@@ -3,7 +3,7 @@ class Solution:
         char_map = {}
 
         for c in s:
-            if char_map and c in char_map:
+            if  c in char_map:
                 char_map[c] += 1
             else:
                 char_map[c] = 1
