@@ -1,0 +1,27 @@
+class Solution:
+    def frequencySort(self, s: str) -> str:
+        char_map = {}
+
+        for c in s:
+            if char_map and c in char_map:
+                char_map[c] += 1
+            else:
+                char_map[c] = 1
+        
+        char_map = dict(sorted(char_map.items(),key=lambda item : item[1],reverse = True))
+
+        result = ""
+
+        for key , values in char_map.items():
+            for i in range(values):
+                result += key
+
+        ''.join(result)
+
+        return result
+    
+
+
+
+
+
