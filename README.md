@@ -73,6 +73,7 @@
 | [0342-power-of-four](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0504-base-7) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
@@ -195,6 +196,7 @@
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1646-kth-missing-positive-number) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -291,6 +293,7 @@
 | [0268-missing-number](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0455-assign-cookies) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Greedy
 |  |
 | ------- |
@@ -299,6 +302,7 @@
 | [0055-jump-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0455-assign-cookies) |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 ## Recursion
 |  |
 | ------- |
@@ -345,4 +349,8 @@
 | ------- |
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Game Theory
+|  |
+| ------- |
+| [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 <!---LeetCode Topics End-->
