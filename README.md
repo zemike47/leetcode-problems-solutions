@@ -159,6 +159,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
+| [1122-relative-sort-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sliding Window
@@ -201,6 +202,7 @@
 | [0496-next-greater-element-i](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0724-find-pivot-index) |
+| [1122-relative-sort-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1122-relative-sort-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1603-running-sum-of-1d-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1603-running-sum-of-1d-array) |
@@ -302,6 +304,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1122-relative-sort-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Greedy
@@ -369,4 +372,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/zemike47/leetcode-problems-solutions/tree/master/0451-sort-characters-by-frequency) |
+## Counting Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
