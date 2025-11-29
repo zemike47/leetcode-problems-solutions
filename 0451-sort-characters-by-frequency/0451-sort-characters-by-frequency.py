@@ -10,13 +10,12 @@ class Solution:
         
         char_map = dict(sorted(char_map.items(),key=lambda item : item[1],reverse = True))
 
-        result = ""
+        result = []
 
         for key , values in char_map.items():
-            for i in range(values):
-                result += key
+            result.append(key * values)
 
-        ''.join(result)
+        result = ''.join(result)
 
         return result
     
