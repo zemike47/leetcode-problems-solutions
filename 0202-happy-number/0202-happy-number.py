@@ -1,39 +1,33 @@
 class Solution:
     def isHappy(self, n: int) -> bool:
-        def totalsumcal(num:int) -> int:
-            totalSum = 0
-            while num > 0:
-                r = num % 10
-                num = num // 10
-                totalSum += r ** 2
+        s = []
+        s.append(n)
 
-           
-            return totalSum
-        
-        numbers = set()
-      
-        while n != 1:
-            if n in numbers:
-                return False
+        def check(n):
+
+            newnum = 0
+            while n > 0:
+                r = n % 10
+                newnum += r **2
+                n = n // 10
             
-            numbers.add(n)
-            n = totalsumcal(n)
-                  
-        return n == 1
         
+            
+
+            if newnum == 1:
+                return True
+            
+            if newnum in s:
+                return False
+            else:
+                s.append(newnum)
+                return check(newnum)
         
+        return check(n)
+            
 
-     
+            
         
-  
+            
 
-
-    
-
-
-        
-
-
-
-        
-        
+      
