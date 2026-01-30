@@ -78,6 +78,7 @@
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/zemike47/leetcode-problems-solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2469-convert-the-temperature](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2469-convert-the-temperature) |
 | [2491-smallest-even-multiple](https://github.com/zemike47/leetcode-problems-solutions/tree/master/2491-smallest-even-multiple) |
 ## Number Theory
 |  |
