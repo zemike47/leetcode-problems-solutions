@@ -1,24 +1,28 @@
 class Solution:
     def isPalindrome(self, x: int) -> bool:
+
         if x < 0:
             return False
-        
-        if x <  10:
-            return True
-        
+
+        reversed_x = 0
+
+        strX = str(x)
+
+        p = len(strX) - 1
+
         num = x
-        revr_num = ""
 
-        while num >= 10:
-            r = num % 10
-            num //= 10
+        while x > 0:
+            r = x % 10
+            reversed_x += r * (10**p)
+            x = x // 10
+            p -= 1
+        
+        x = num
 
-            revr_num += str(r)
+        return reversed_x == x
+        
 
-        revr_num += str(num)
 
-        revr_num = int(revr_num)
-
-        return revr_num == x
 
         
